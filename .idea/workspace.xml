@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26178619-54ec-426b-8ecc-a4fcf693cf94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eNwFezXbPuMavsARsiKqaa7m2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Poc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Poc" />
+      <module name="cas_poc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Poc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26178619-54ec-426b-8ecc-a4fcf693cf94" name="Default Changelist" comment="" />
+      <created>1594175256050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594175256050</updated>
+      <workItem from="1594175258717" duration="1469000" />
+      <workItem from="1594177606328" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="43" key="#Project_Structure" timestamp="1594175292984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1594175292984" />
+    <state x="534" y="95" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1594175933563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="534" y="95" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.768@0.0.1366.768" timestamp="1594175933563" />
+    <state x="458" y="99" key="DetectedRootsChooserDialog" timestamp="1594175698051">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="458" y="99" key="DetectedRootsChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1594175698051" />
+    <state x="484" y="139" key="FileChooserDialogImpl" timestamp="1594175943155">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="484" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594175943155" />
+    <state width="1323" height="239" key="GridCell.Tab.0.bottom" timestamp="1594177678332">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="239" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594177678332" />
+    <state width="1323" height="239" key="GridCell.Tab.0.center" timestamp="1594177678331">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="239" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594177678331" />
+    <state width="1323" height="239" key="GridCell.Tab.0.left" timestamp="1594177678331">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="239" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594177678331" />
+    <state width="1323" height="239" key="GridCell.Tab.0.right" timestamp="1594177678332">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="239" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594177678332" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594175946211">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594175946211" />
+  </component>
+</project>
